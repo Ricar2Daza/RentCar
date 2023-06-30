@@ -1,0 +1,51 @@
+C:\Users\pc\source\repos\Parcial2doCorte\PresentacionGUI\bin\Debug\PresentacionGUI.exe.config
+C:\Users\pc\source\repos\Parcial2doCorte\PresentacionGUI\bin\Debug\PresentacionGUI.exe
+C:\Users\pc\source\repos\Parcial2doCorte\PresentacionGUI\bin\Debug\PresentacionGUI.pdb
+C:\Users\pc\source\repos\Parcial2doCorte\PresentacionGUI\bin\Debug\Entidad.dll
+C:\Users\pc\source\repos\Parcial2doCorte\PresentacionGUI\bin\Debug\Logica.dll
+C:\Users\pc\source\repos\Parcial2doCorte\PresentacionGUI\bin\Debug\Datos.dll
+C:\Users\pc\source\repos\Parcial2doCorte\PresentacionGUI\bin\Debug\Entidad.pdb
+C:\Users\pc\source\repos\Parcial2doCorte\PresentacionGUI\bin\Debug\Logica.pdb
+C:\Users\pc\source\repos\Parcial2doCorte\PresentacionGUI\bin\Debug\Datos.pdb
+C:\Users\pc\source\repos\Parcial2doCorte\PresentacionGUI\obj\Debug\PresentacionGUI.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Parcial2doCorte\PresentacionGUI\obj\Debug\PresentacionGUI.FrmMenuPrincipal.resources
+C:\Users\pc\source\repos\Parcial2doCorte\PresentacionGUI\obj\Debug\PresentacionGUI.FrmGuardarCliente.resources
+C:\Users\pc\source\repos\Parcial2doCorte\PresentacionGUI\obj\Debug\PresentacionGUI.Properties.Resources.resources
+C:\Users\pc\source\repos\Parcial2doCorte\PresentacionGUI\obj\Debug\PresentacionGUI.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Parcial2doCorte\PresentacionGUI\obj\Debug\PresentacionGUI.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Parcial2doCorte\PresentacionGUI\obj\Debug\PresentacionGUI.csproj.CopyComplete
+C:\Users\pc\source\repos\Parcial2doCorte\PresentacionGUI\obj\Debug\PresentacionGUI.exe
+C:\Users\pc\source\repos\Parcial2doCorte\PresentacionGUI\obj\Debug\PresentacionGUI.pdb
+C:\Users\pc\source\repos\Parcial2doCorte\PresentacionGUI\obj\Debug\PresentacionGUI.FrmConsultarCliente.resources
+C:\Users\pc\source\repos\Parcial2doCorte\PresentacionGUI\obj\Debug\PresentacionGUI.FrmEliminarCliente.resources
+C:\Users\pc\source\repos\Parcial2doCorte\PresentacionGUI\obj\Debug\PresentacionGUI.FrmRegistrarVehiculo.resources
+C:\Users\pc\source\repos\Parcial2doCorte\PresentacionGUI\obj\Debug\PresentacionGUI.FrmConsultarVehiculos.resources
+C:\Users\pc\source\repos\Parcial2doCorte\PresentacionGUI\obj\Debug\PresentacionGUI.FrmEliminarVehiculo.resources
+C:\Users\pc\source\repos\Parcial2doCorte\PresentacionGUI\obj\Debug\PresentacionGUI.FrmRegistro.resources
+C:\Users\pc\source\repos\Parcial2doCorte\PresentacionGUI\obj\Debug\PresentacionGUI.FrmConsultaRegistro.resources
+C:\Users\Ricardo Daza\Downloads\Parcial2doCorte\Parcial2doCorte\PresentacionGUI\obj\Debug\PresentacionGUI.csproj.AssemblyReference.cache
+C:\Users\Ricardo Daza\Downloads\Parcial2doCorte\Parcial2doCorte\PresentacionGUI\obj\Debug\PresentacionGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ricardo Daza\Downloads\Parcial2doCorte\Parcial2doCorte\PresentacionGUI\obj\Debug\PresentacionGUI.FrmConsultarCliente.resources
+C:\Users\Ricardo Daza\Downloads\Parcial2doCorte\Parcial2doCorte\PresentacionGUI\obj\Debug\PresentacionGUI.FrmConsultaRegistro.resources
+C:\Users\Ricardo Daza\Downloads\Parcial2doCorte\Parcial2doCorte\PresentacionGUI\obj\Debug\PresentacionGUI.FrmConsultarVehiculos.resources
+C:\Users\Ricardo Daza\Downloads\Parcial2doCorte\Parcial2doCorte\PresentacionGUI\obj\Debug\PresentacionGUI.FrmEliminarCliente.resources
+C:\Users\Ricardo Daza\Downloads\Parcial2doCorte\Parcial2doCorte\PresentacionGUI\obj\Debug\PresentacionGUI.FrmEliminarVehiculo.resources
+C:\Users\Ricardo Daza\Downloads\Parcial2doCorte\Parcial2doCorte\PresentacionGUI\obj\Debug\PresentacionGUI.FrmMenuPrincipal.resources
+C:\Users\Ricardo Daza\Downloads\Parcial2doCorte\Parcial2doCorte\PresentacionGUI\obj\Debug\PresentacionGUI.FrmRegistrarVehiculo.resources
+C:\Users\Ricardo Daza\Downloads\Parcial2doCorte\Parcial2doCorte\PresentacionGUI\obj\Debug\PresentacionGUI.FrmRegistro.resources
+C:\Users\Ricardo Daza\Downloads\Parcial2doCorte\Parcial2doCorte\PresentacionGUI\obj\Debug\PresentacionGUI.FrmGuardarCliente.resources
+C:\Users\Ricardo Daza\Downloads\Parcial2doCorte\Parcial2doCorte\PresentacionGUI\obj\Debug\PresentacionGUI.Properties.Resources.resources
+C:\Users\Ricardo Daza\Downloads\Parcial2doCorte\Parcial2doCorte\PresentacionGUI\obj\Debug\PresentacionGUI.csproj.GenerateResource.cache
+C:\Users\Ricardo Daza\Downloads\Parcial2doCorte\Parcial2doCorte\PresentacionGUI\obj\Debug\PresentacionGUI.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo Daza\Downloads\Parcial2doCorte\Parcial2doCorte\PresentacionGUI\obj\Debug\PresentacionGUI.exe
+C:\Users\Ricardo Daza\Downloads\Parcial2doCorte\Parcial2doCorte\PresentacionGUI\obj\Debug\PresentacionGUI.pdb
+C:\Users\Ricardo Daza\Downloads\Parcial2doCorte\Parcial2doCorte\PresentacionGUI\bin\Debug\PresentacionGUI.exe.config
+C:\Users\Ricardo Daza\Downloads\Parcial2doCorte\Parcial2doCorte\PresentacionGUI\bin\Debug\PresentacionGUI.exe
+C:\Users\Ricardo Daza\Downloads\Parcial2doCorte\Parcial2doCorte\PresentacionGUI\bin\Debug\PresentacionGUI.pdb
+C:\Users\Ricardo Daza\Downloads\Parcial2doCorte\Parcial2doCorte\PresentacionGUI\bin\Debug\Entidad.dll
+C:\Users\Ricardo Daza\Downloads\Parcial2doCorte\Parcial2doCorte\PresentacionGUI\bin\Debug\Logica.dll
+C:\Users\Ricardo Daza\Downloads\Parcial2doCorte\Parcial2doCorte\PresentacionGUI\bin\Debug\Datos.dll
+C:\Users\Ricardo Daza\Downloads\Parcial2doCorte\Parcial2doCorte\PresentacionGUI\bin\Debug\Entidad.pdb
+C:\Users\Ricardo Daza\Downloads\Parcial2doCorte\Parcial2doCorte\PresentacionGUI\bin\Debug\Logica.pdb
+C:\Users\Ricardo Daza\Downloads\Parcial2doCorte\Parcial2doCorte\PresentacionGUI\bin\Debug\Datos.pdb
+C:\Users\Ricardo Daza\Downloads\Parcial2doCorte\Parcial2doCorte\PresentacionGUI\obj\Debug\PresentacionGUI.csproj.CopyComplete

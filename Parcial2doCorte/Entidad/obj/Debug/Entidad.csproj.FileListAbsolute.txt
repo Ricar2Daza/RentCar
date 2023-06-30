@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\Parcial2doCorte\Entidad\bin\Debug\Entidad.dll
+C:\Users\pc\source\repos\Parcial2doCorte\Entidad\bin\Debug\Entidad.pdb
+C:\Users\pc\source\repos\Parcial2doCorte\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Parcial2doCorte\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Parcial2doCorte\Entidad\obj\Debug\Entidad.dll
+C:\Users\pc\source\repos\Parcial2doCorte\Entidad\obj\Debug\Entidad.pdb
